@@ -19,6 +19,8 @@ Hello, my name is Jack Waters, I am from Nottingham Trent University taking BSc(
 |     2| C++           |
 |     3| Java          |
 </details>
+
+- 🌱 I’m currently working on this page.
 <!--
 **killick-dev/killick-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

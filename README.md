@@ -9,6 +9,16 @@
 ## About Me
 
 Hello, my name is Jack Waters, I am from Nottingham Trent University taking BSc(H) Computer Science.
+
+<details>
+<summary>My top languages</summary>
+
+| Rank |   Languages   |
+|-----:|---------------|
+|     1| Python        |
+|     2| C++           |
+|     3| Java          |
+</details>
 <!--
 **killick-dev/killick-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

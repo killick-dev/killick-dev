@@ -8,7 +8,7 @@
 
 ## About Me
 
-Hello, my name is Jack Waters, I am from Nottingham Trent University taking BSc(H) Computer Science.
+Hello, my name is Jack Waters, I am currently studying BSc(H) Computer Science at Nottingham Trent University taking .
 
 <details>
 <summary>My top languages</summary>

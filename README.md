@@ -10,20 +10,21 @@
 
 Hello, my name is Jack Waters, I am currently studying BSc(H) Computer Science at Nottingham Trent University taking .
 
+[![Top Langs](https://github-readme-stats-watkkus-projects.vercel.app/api/top-langs/?username=watkku&hide=jupyter%20notebook&theme=tokyonight)](https://github.com/watkku/github-readme-stats)
+
+- 🌱 I’m currently working on this page.
+<!--
+**killick-dev/killick-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <details>
 <summary>My top languages</summary>
-
+[![Top Langs](https://github-readme-stats-watkkus-projects.vercel.app/api/top-langs/?username=watkku&hide=javascript,css,html&theme=tokyonight)](https://github.com/watkku/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=tokyonight) -- hide progress bars
 | Rank |   Languages   |
 |-----:|---------------|
 |     1| Python        |
 |     2| C++           |
 |     3| Java          |
 </details>
-
-- 🌱 I’m currently working on this page.
-<!--
-**killick-dev/killick-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

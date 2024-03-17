@@ -1,4 +1,4 @@
-# :computer: Jack Waters
+# :mount_fuji: Jack Waters
 
 ## About Me
 

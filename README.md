@@ -1,6 +1,6 @@
 <h1 align="center">:mount_fuji: Jack Waters</h1>
 
-**`Developer`**
+<p align="center">**`Developer`**</p>
 
 - 🌱 I’m currently working on this page.
 -  Hello, my name is Jack Waters, I am currently studying BSc(H) Computer Science at Nottingham Trent University.

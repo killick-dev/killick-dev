@@ -7,6 +7,8 @@
     <a href="https://www.linkedin.com/in/jack-waters02"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg"/></a>    
 </p>
 
+---
+
 - 🌱 I’m currently working on this page.
 - Hello, my name is Jack Waters, I am currently studying BSc(H) Computer Science at Nottingham Trent University.
 

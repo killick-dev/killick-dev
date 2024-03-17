@@ -1,6 +1,6 @@
 # :mount_fuji: Jack Waters
 
-## About Me
+**`Developer`**
 
 Hello, my name is Jack Waters, I am currently studying BSc(H) Computer Science at Nottingham Trent University.
 

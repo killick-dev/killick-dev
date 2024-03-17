@@ -4,7 +4,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-    <a href="www.linkedin.com/in/jack-waters02" alt="LinkedIn" title="LinkedIn"><img width="32px" src="https://cdn.simpleicons.org/linkedin.svg"/></a>    
+    <a href="www.linkedin.com/in/jack-waters02" alt="LinkedIn" title="LinkedIn"><img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></a>    
 </p>
 
 - 🌱 I’m currently working on this page.

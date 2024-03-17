@@ -1,4 +1,4 @@
-#:computer: Jack Waters
+# :computer: Jack Waters
 
 ## About Me
 

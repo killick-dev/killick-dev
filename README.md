@@ -1,4 +1,4 @@
-# :mount_fuji: Jack Waters
+<h1 align="center">:mount_fuji: Jack Waters</h1>
 
 **`Developer`**
 
